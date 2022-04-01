@@ -28,7 +28,7 @@
       "Name": "SERVIDOR (BR01) ONLINE",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "us.noobsofre.ml",
+      "ServerIP": "sk.noobsofre.ml",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -36,6 +36,16 @@
     },
     {
       "Name": "SERVIDOR FREE (BR02) ONLINE",
+      "TYPE": "free",
+      "FLAG": "br.png",
+      "ServerIP": "tm.noobsofre.ml",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+   }
+   {
+     "Name": "SERVIDOR FREE (US03) ONLINE",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "us.noobsofre.ml",
