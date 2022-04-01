@@ -47,7 +47,7 @@
    {
      "Name": "SERVIDOR FREE (US03) ONLINE",
       "TYPE": "free",
-      "FLAG": "br.png",
+      "FLAG": "us.png",
       "ServerIP": "us.noobsofre.ml",
       "ServerPort": "22",
       "SSLPort": "443",
