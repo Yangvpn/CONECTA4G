@@ -43,7 +43,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-   }
+   },
    {
      "Name": "SERVIDOR FREE (US03) ONLINE",
       "TYPE": "free",
